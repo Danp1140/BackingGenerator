@@ -1,0 +1,3 @@
+resources/vsts/
+cmake-build-debug/
+.idea

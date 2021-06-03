@@ -1,0 +1,33 @@
+<patterns>
+    <resolution>2</resolution>
+    <ride>
+        <beat>1.00</beat>
+        <value>1.0</value>
+        <beat>1.50</beat>
+        <value>1.00</value>
+        <beat>2.00</beat>
+        <value>1.0</value>
+        <beat>2.50</beat>
+        <value>1.00</value>
+        <beat>3.00</beat>
+        <value>1.0</value>
+        <beat>3.50</beat>
+        <value>1.00</value>
+        <beat>4.00</beat>
+        <value>1.0</value>
+        <beat>4.50</beat>
+        <value>1.00</value>
+    </ride>
+    <hat>
+        <beat>2.00</beat>
+        <value>1.0</value>
+        <beat>4.00</beat>
+        <value>1.0</value>
+    </hat>
+    <snare>
+    </snare>
+    <bass>
+        <beat>1.00</beat>
+        <value>1.0</value>
+    </bass>
+</patterns>

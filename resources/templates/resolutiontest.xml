@@ -1,0 +1,15 @@
+<patterns>
+    <resolution>5</resolution>
+    <ride>
+        <beat>1.00</beat>
+        <value>1.0</value>
+        <beat>1.20</beat>
+        <value>1.0</value>
+        <beat>1.40</beat>
+        <value>1.0</value>
+        <beat>1.60</beat>
+        <value>1.0</value>
+        <beat>1.80</beat>
+        <value>1.0</value>
+    </ride>
+</patterns>
